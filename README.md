@@ -2,6 +2,9 @@
 
 **An open-source 16-switch USB-MIDI pad for finger drummers**
 
+[!['sureshot'](https://github.com/user-attachments/assets/ce86f809-fd57-49aa-b9b7-676624ac8b80)]('https://youtu.be/O4qTFXLK1oI?si=pxgfOyuykZeZV8zt')
+
+
 SureShot_mk1 is a DIY MIDI controller built on Arduino Leonardo-compatible hardware. It sends MIDI note messages over USB, letting you trigger samples, drums, and instruments in any DAW — no extra drivers required.
 
 > Project lead: **Nitroplazma** — finger drummer / programmer
